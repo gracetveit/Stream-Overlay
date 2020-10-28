@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: flex-end;
+}
+
+.container {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    justify-content: space-between;
+}
+
+p {
+    padding-right: 10px;
+    padding-left: 10px;
+}
