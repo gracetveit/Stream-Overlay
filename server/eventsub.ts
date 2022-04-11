@@ -66,6 +66,7 @@ export default (req: Request, res: Response) => {
             4
           )}`
         );
+        break;
       default:
         res.sendStatus(204);
         console.log(`Unkown message type: ${req.headers[MESSAGE_TYPE]}`);
