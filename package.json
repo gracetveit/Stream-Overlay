@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
+    "js-crypto-hmac": "^1.0.4",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.3"
   },
